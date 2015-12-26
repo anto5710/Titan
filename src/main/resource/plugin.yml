@@ -1,0 +1,13 @@
+name: Titan
+main: gmail.anto5710.mcp.titan.main
+description: Attack On Titan Minecraft Plugin
+version: 0.0.1
+authors: [anto5710] 
+
+commands:
+    titan:
+        description: Command of this Plugin 
+   
+    
+    
+     
